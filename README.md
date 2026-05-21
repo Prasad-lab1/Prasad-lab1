@@ -1,20 +1,26 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:6a11cb,50:2575fc,100:00c6ff&text=Prasad%20Digole&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Developer%20•%20Full%20Stack%20Developer%20•%20Android%20Developer&descAlignY=58"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=280&section=header&text=Prasad%20Digole&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Developer%20•%20Full%20Stack%20Developer%20•%20Creative%20Tech%20Builder&descAlignY=58"/>
 
 <br>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=2500&pause=1000&color=00C2FF&center=true&vCenter=true&width=850&lines=Computer+Science+Engineering+Student;AI+Assistant+Developer;Full+Stack+Developer;Android+Developer;Creative+Tech+Builder;Future+Product+Builder+🚀"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=2500&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=BTech+Computer+Science+Engineering+Student;AI+Automation+Developer;Android+Developer;Full+Stack+Developer;Building+Futuristic+Software+Products;Hackathon+Builder+🚀"/>
 
 <br><br>
 
 <img src="https://komarev.com/ghpvc/?username=Prasad-lab1&label=PROFILE+VIEWS&color=0e75b6&style=for-the-badge"/>
 
+<img src="https://img.shields.io/github/followers/Prasad-lab1?style=for-the-badge&logo=github"/>
+
+<img src="https://img.shields.io/github/stars/Prasad-lab1?style=for-the-badge&logo=github"/>
+
 </div>
 
 ---
 
-# 🚀 About Me
+# 💫 About Me
+
+### 💡 “Building technology that combines creativity, automation, and real-world impact.”
 
 <img align="right" width="320" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
@@ -30,29 +36,19 @@ class PrasadDigole:
             "Creative Tech Builder"
         ]
 
-        self.education = "BTech Computer Science Engineering"
-
-        self.languages = [
-            "Python",
-            "Java",
-            "C",
-            "C++",
-            "Kotlin"
+        self.current_focus = [
+            "AI Automation",
+            "OCR Systems",
+            "Smart Assistants",
+            "Product Development",
+            "Hackathon Projects"
         ]
 
-        self.interests = [
-            "Artificial Intelligence",
-            "Automation",
-            "3D Printing",
-            "Game Development",
-            "Creative Technology"
-        ]
-
-        self.currently_learning = [
+        self.learning = [
             "Flutter",
-            "Advanced Web Development",
+            "Advanced React",
             "AI Systems",
-            "GitHub Collaboration"
+            "Open Source Collaboration"
         ]
 
         self.operating_system = "Linux Mint"
@@ -67,176 +63,216 @@ class PrasadDigole:
 - 🤖 Building advanced AI assistants using OCR + Automation  
 - 📱 Android Developer using Java & XML  
 - 🌐 Full Stack Web Developer  
-- 🖨️ Interested in 3D Printing & Creative Tech  
-- 🎮 Exploring Game Development using Unity Engine  
-- 🧠 Interested in Product Development & Real-world Software  
+- 🖨️ Exploring 3D Printing & Creative Technology  
+- 🎮 Interested in Game Development & Interactive Systems  
 - ⚡ Passionate about combining creativity with technology  
+- 🧠 Building practical real-world software products  
+- 🏆 Interested in building hackathon-winning software solutions  
+- 🛠️ I enjoy transforming creative ideas into real working applications  
+- 🚀 Turning ideas into working software products  
+- ⚡ Building AI tools that improve productivity and automation  
+- 🌏 Interested in building globally impactful technology products  
 
 ---
 
-# 📊 Skills Overview
+# 🧠 Focus Areas
 
-<table align="center">
-<tr>
-<th>💻 Domain</th>
-<th>⚡ Skills</th>
-<th>📈 Level</th>
-</tr>
+```text
+🤖 AI Automation
+📱 Android Development
+🌐 Full Stack Development
+🖨️ Creative Tech + 3D Printing
+🎮 Interactive Software Systems
+🚀 Product Development
+```
 
-<tr>
-<td>🌐 Web Development</td>
-<td>HTML5, CSS3, JavaScript, React</td>
-<td>████████░░ Advanced</td>
-</tr>
+---
 
-<tr>
-<td>☕ Java</td>
-<td>Core Java, OOP, Swing, Android</td>
-<td>█████████░ Advanced</td>
-</tr>
+# 🧠 Tech Stack
 
-<tr>
-<td>⚙️ C / C++</td>
-<td>Programming, DSA, Logic Building</td>
-<td>██████░░░░ Intermediate</td>
-</tr>
+<div align="center">
 
-<tr>
-<td>🐍 Python</td>
-<td>Automation, OCR, AI Projects</td>
-<td>██████░░░░ Intermediate</td>
-</tr>
+### 🚀 Languages
 
-<tr>
-<td>📱 Android Development</td>
-<td>Java + XML, Android Studio</td>
-<td>██████░░░░ Intermediate</td>
-</tr>
+<img src="https://skillicons.dev/icons?i=python,java,c,cpp,kotlin,javascript"/>
 
-<tr>
-<td>🗄️ Databases</td>
-<td>MySQL, MongoDB, SQLite</td>
-<td>██████░░░░ Intermediate</td>
-</tr>
+---
 
-<tr>
-<td>🔧 Git & GitHub</td>
-<td>Version Control & Collaboration</td>
-<td>██████░░░░ Intermediate</td>
-</tr>
+### 🌐 Frontend & App Development
 
-<tr>
-<td>🖥️ Linux</td>
-<td>Linux Mint, Shell, Terminal</td>
-<td>██████░░░░ Intermediate</td>
-</tr>
+<img src="https://skillicons.dev/icons?i=html,css,react,flutter,androidstudio"/>
 
-<tr>
-<td>🎮 Game Development</td>
-<td>Unity Engine, C# Basics</td>
-<td>████░░░░░░ Learning</td>
-</tr>
+---
+
+### ⚙️ Backend & Database
+
+<img src="https://skillicons.dev/icons?i=nodejs,mysql,mongodb,sqlite"/>
+
+---
+
+### 🛠️ Tools & Platforms
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,figma"/>
+
+---
+
+### 🤖 AI / Automation
+
+<img src="https://img.shields.io/badge/OCR-OpenCV-blue?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/PyQt6-Desktop%20Apps-green?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Automation-AI-orange?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Speech-Recognition-red?style=for-the-badge"/>
+
+</div>
+
+---
+
+# 🚀 Featured Projects
+
+<div align="center">
+
+<table>
 
 <tr>
-<td>⚡ Low-Level Programming</td>
-<td>Assembly Language, Microprocessors</td>
-<td>██████░░░░ Intermediate</td>
+
+<td width="50%">
+
+## 🤖 SmartFormAI Ultimate
+
+Advanced AI desktop assistant capable of:
+
+- OCR Form Detection  
+- Voice Commands  
+- Auto Form Filling  
+- Screen Text Recognition  
+- Smart Automation  
+- Notification Detection  
+
+### ⚙️ Tech Stack
+
+`Python` `PyQt6` `OpenCV` `OCR`
+
+<br>
+
+<img src="https://img.shields.io/badge/AI-Assistant-blue?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Desktop-App-green?style=for-the-badge"/>
+
+</td>
+
+<td width="50%">
+
+## 🏋️ Gym Management System
+
+Full-stack management system featuring:
+
+- Member Registration  
+- Trainer Management  
+- Admin Dashboard  
+- Fee Management  
+- Database Connectivity  
+
+### ⚙️ Tech Stack
+
+`ASP.NET` `VB.NET` `SQL Server`
+
+<br>
+
+<img src="https://img.shields.io/badge/FullStack-Project-purple?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Database-System-orange?style=for-the-badge"/>
+
+</td>
+
 </tr>
 
 </table>
+
+</div>
 
 ---
 
 # 🌱 Currently Exploring
 
-<table align="center">
-<tr>
+<div align="center">
 
-<td align="center" width="160">
-<img src="https://skillicons.dev/icons?i=github" width="55"/><br>
-<b>GitHub</b><br>
-Version Control
-</td>
+<img src="https://skillicons.dev/icons?i=github,python,flutter,react"/>
 
-<td align="center" width="160">
-<img src="https://skillicons.dev/icons?i=python" width="55"/><br>
-<b>Python AI</b><br>
-Automation & AI
-</td>
+<br><br>
 
-<td align="center" width="160">
-<img src="https://skillicons.dev/icons?i=flutter" width="55"/><br>
-<b>Flutter</b><br>
-Cross Platform Apps
-</td>
+| Technology | Focus Area |
+|---|---|
+| 🐍 Python AI | Automation & Smart Systems |
+| 📱 Flutter | Cross Platform Development |
+| 🌐 React | Modern UI Development |
+| 🔧 GitHub | Open Source Collaboration |
+| 🖨️ 3D Printing | Creative Tech Prototyping |
 
-<td align="center" width="160">
-<img src="https://skillicons.dev/icons?i=react" width="55"/><br>
-<b>Web Development</b><br>
-Modern UI
-</td>
-
-<td align="center" width="160">
-<img src="https://cdn-icons-png.flaticon.com/512/3659/3659899.png" width="55"/><br>
-<b>3D Printing</b><br>
-Creative Prototyping
-</td>
-
-</tr>
-</table>
+</div>
 
 ---
 
-# 🚀 My Projects
+# 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Prasad-lab1&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prasad-lab1&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
 
 ---
 
-## 🤖 SmartFormAI Ultimate
+# 🔥 GitHub Streak
 
-### Advanced AI assistant capable of:
+<div align="center">
 
-- OCR Form Detection
-- Voice Commands
-- Auto Form Filling
-- Screen Text Recognition
-- Notification Detection
-- Smart Automation
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Prasad-lab1&theme=tokyonight&hide_border=true"/>
 
-### ⚙️ Built Using
-
-`Python` `PyQt6` `OCR` `OpenCV` `Speech Recognition`
+</div>
 
 ---
 
-## 🏋️ Gym Management System
+# 📈 Contribution Graph
 
-### Full-stack management software featuring:
+<div align="center">
 
-- Member Registration
-- Fee Management
-- Trainer Management
-- Admin Dashboard
-- Database Connectivity
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Prasad-lab1&theme=tokyo-night"/>
 
-### ⚙️ Built Using
-
-`C# ASP.NET` `VB.NET Framework` `SQL Server`
+</div>
 
 ---
 
-# ⚡ Facts About Me
+# 🏆 GitHub Achievements
 
-- 🧠 I enjoy building software that feels futuristic and useful in real life  
-- 🤖 Most of my projects focus on AI, automation, and smart systems  
-- 📱 I enjoy creating Android apps with practical real-world features  
-- 🌐 I work on both frontend design and backend development  
-- 🖥️ Linux Mint is my daily operating system for coding and development  
-- ⚙️ Interested in systems from low-level programming to full-stack applications  
-- 🎮 I enjoy experimenting with game mechanics and interactive systems  
-- 🖨️ Exploring 3D printing and creative technology integration  
-- 🚀 I prefer building practical projects over tutorial-only projects  
-- 🎨 Passionate about combining technology, creativity, and innovation  
-- 🌏 Goal: Build impactful futuristic software products  
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Prasad-lab1&theme=tokyonight&no-frame=true&row=1&column=6"/>
+
+</div>
+
+---
+
+# 💻 Daily Workflow
+
+```text
+☕ Coffee + Coding
+🧠 Build Real Projects
+🚀 Learn New Tech
+⚡ Experiment With AI
+🎯 Improve Every Day
+```
+
+---
+
+# ⚡ Developer Mindset
+
+```text
+⚡ Build > Watch Tutorials
+🧠 Learn By Creating
+🚀 Focus On Real Products
+🎯 Consistency Beats Motivation
+💡 Creativity + Technology = Innovation
+```
 
 ---
 
@@ -251,33 +287,43 @@ Creative Prototyping
 
 ---
 
-# 🤝 Let's Connect
+# 🤝 Connect With Me
 
 <div align="center">
 
 <a href="https://github.com/Prasad-lab1">
-<img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github"/>
 </a>
 
-<a href="https://linkedin.com">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
+<a href="https://www.linkedin.com">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
 </a>
 
 <a href="mailto:prasaddigole81@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-Mail-red?style=for-the-badge&logo=gmail"/>
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail"/>
 </a>
 
 <a href="https://www.instagram.com/prasad_digole_/">
-<img src="https://img.shields.io/badge/Instagram-Follow-pink?style=for-the-badge&logo=instagram"/>
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram"/>
 </a>
 
 </div>
 
 ---
 
+# 🐍 Contribution Snake
+
 <div align="center">
 
-## 💡 Favorite Quote
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
+
+</div>
+
+---
+
+# 💡 Favorite Quote
+
+<div align="center">
 
 ### *"First, solve the problem. Then, write the code."*
 
@@ -287,10 +333,10 @@ Creative Prototyping
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=600&lines=Thanks+For+Visiting+My+Profile!;Keep+Building+🚀;Code+•+Build+•+Innovate"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Thanks+For+Visiting+My+Profile!;Code+•+Build+•+Innovate;Keep+Building+🚀"/>
 
 <br><br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:6a11cb,50:2575fc,100:00c6ff&section=footer&text=Thanks%20For%20Visiting!&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=65"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=180&section=footer"/>
 
 </div>
