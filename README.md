@@ -4,11 +4,11 @@
 
 <br>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=2500&pause=1000&color=00C2FF&center=true&vCenter=true&width=850&lines=Computer+Science+Engineering+Student;AI+Assistant+Developer;Full+Stack+Developer;Android+Developer;Creative+Tech+Builder;Future+Product+Builder+%F0%9F%9A%80"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=2500&pause=1000&color=00C2FF&center=true&vCenter=true&width=850&lines=Computer+Science+Engineering+Student;AI+Assistant+Developer;Full+Stack+Developer;Android+Developer;Creative+Tech+Builder;Future+Product+Builder+🚀"/>
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=Prasad-Digole&label=PROFILE+VIEWS&color=0e75b6&style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=Prasad-lab1&label=PROFILE+VIEWS&color=0e75b6&style=for-the-badge"/>
 
 </div>
 
@@ -54,6 +54,13 @@ class PrasadDigole:
             "AI Systems",
             "GitHub Collaboration"
         ]
+
+        self.operating_system = "Linux Mint"
+
+    def goal(self):
+        return "Build futuristic software products 🚀"
+```
+
 <br>
 
 - 🎓 BTech Computer Science Engineering Student  
@@ -220,17 +227,16 @@ Creative Prototyping
 # ⚡ Facts About Me
 
 - 🧠 I enjoy building software that feels futuristic and useful in real life  
-- 🤖 Most of my projects are focused on AI, automation, and smart systems  
-- 📱 I like creating Android apps with clean UI and practical features  
-- 🌐 I work on both frontend design and backend logic while building projects  
-- 🖥️ I use Linux Mint for coding, development, and experimenting with tools  
-- ⚙️ I’m interested in understanding everything from low-level programming to modern web technologies  
-- 🎮 I enjoy experimenting with game development concepts and interactive systems  
-- 🖨️ Recently exploring 3D printing and how software can connect with hardware creativity  
-- 🚀 I prefer creating complete real-world projects instead of only following tutorials  
-- 🎨 I’m interested in combining technology, creativity, AI, and design into one ecosystem  
-- 🏆 I want to build impactful products, participate in hackathons, and create software people actually use  
-- 🌏 Long-term goal: become a developer who builds innovative global-level products
+- 🤖 Most of my projects focus on AI, automation, and smart systems  
+- 📱 I enjoy creating Android apps with practical real-world features  
+- 🌐 I work on both frontend design and backend development  
+- 🖥️ Linux Mint is my daily operating system for coding and development  
+- ⚙️ Interested in systems from low-level programming to full-stack applications  
+- 🎮 I enjoy experimenting with game mechanics and interactive systems  
+- 🖨️ Exploring 3D printing and creative technology integration  
+- 🚀 I prefer building practical projects over tutorial-only projects  
+- 🎨 Passionate about combining technology, creativity, and innovation  
+- 🌏 Goal: Build impactful futuristic software products  
 
 ---
 
@@ -249,7 +255,7 @@ Creative Prototyping
 
 <div align="center">
 
-<a href="https://github.com/Prasad-lab1
+<a href="https://github.com/Prasad-lab1">
 <img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github"/>
 </a>
 
@@ -261,7 +267,7 @@ Creative Prototyping
 <img src="https://img.shields.io/badge/Gmail-Mail-red?style=for-the-badge&logo=gmail"/>
 </a>
 
-<a href="https://www.instagram.com/prasad_digole_">
+<a href="https://www.instagram.com/prasad_digole_/">
 <img src="https://img.shields.io/badge/Instagram-Follow-pink?style=for-the-badge&logo=instagram"/>
 </a>
 
@@ -281,13 +287,7 @@ Creative Prototyping
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=130&color=0:6a11cb,50:2575fc,100:00c6ff&section=footer&text=Thanks%20For%20Visiting!&fontSize=30&fontColor=ffffff"/>
-
-</div>
-
-<div align="center">
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=600&lines=Thanks+For+Visiting+My+Profile!;Keep+Building+%F0%9F%9A%80;Code+%E2%80%A2+Build+%E2%80%A2+Innovate"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=600&lines=Thanks+For+Visiting+My+Profile!;Keep+Building+🚀;Code+•+Build+•+Innovate"/>
 
 <br><br>
 
